@@ -1,5 +1,5 @@
 
-# USYD COMP5318 Assignment 2: Image Classification Based On CIFAR-100 Dataset 
+# USYD COMP5318 Assignment 2: CIFAR-100 
 ### 25/09/2021 to 05/11/2021
 - CIFAR-100 is an image classification challenge on kaggle platform that contains 100 classes of 6000 images, this challenge was assigned as group course assignment for COMP5318 in USYD.
 - Responsible for data preprocessing, EDA, implementation of VGG and LeNet models, model evaluation, performance improvement, hyper-parameters tuning, final component deliverable.
